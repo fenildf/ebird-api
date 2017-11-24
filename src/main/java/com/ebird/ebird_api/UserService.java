@@ -7,6 +7,11 @@ import com.ebird.ebird_entity.entity.UserEntity;
 import com.ebird.ebird_entity.entity.UserExerciseDetailEntity;
 import com.smartframe.entity.UserCur;
 
+/**
+ * 用户模块
+ * @author Administrator
+ *
+ */
 public interface UserService {
 	
 	/**
